@@ -1,16 +1,17 @@
 # weather_app
 
-A new Flutter project.
+A weather App Made using Flutter using Openweathermap Api and Geolocator.
 
 ## Getting Started
+Add your own Openweather Api Key in: 
+>lib -> provider -> api -> fetch_weather.dart
 
-This project is a starting point for a Flutter application.
+>> static const String apiKey = "YOUR OPENWEATHER API Key";
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can get your own Api Key From [Openweathermap](https://openweathermap.org/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Download Demo Apk](https://drive.google.com/file/d/1FknnqoRvbvUUIU2apKZHCRSk9TqqyJuE/view?usp=sharing)
+### App Screenshots
+<img src="assets/ss.png" width="250">
+
