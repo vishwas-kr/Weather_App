@@ -11,7 +11,7 @@ Add your own Openweather Api Key in:
 
 You can get your own Api Key From [Openweathermap](https://openweathermap.org/)
 
-[Download Demo Apk](https://drive.google.com/file/d/1FknnqoRvbvUUIU2apKZHCRSk9TqqyJuE/view?usp=sharing)
+
 ### App Screenshots
 <img src="assets/ss.png" width="250">
 
