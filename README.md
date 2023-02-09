@@ -6,7 +6,7 @@ A weather App Made using Flutter using Openweathermap Api and Geolocator.
 Add your own Openweather Api Key in: 
 >lib -> provider -> api -> fetch_weather.dart
 
->> static const String apiKey = "YOUR OPENWEATHER API Key";
+ `static const String apiKey = "YOUR OPENWEATHER API Key";`
 
 
 You can get your own Api Key From [Openweathermap](https://openweathermap.org/)
